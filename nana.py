@@ -1,0 +1,1 @@
+print('selalu menjadi yang terbaik')
